@@ -9,7 +9,7 @@ using UnityEngine.UI;
 //ESCRIBIR ACCESS GRANTED, SINO ACCESS DENIED
 public class LOGINMANAGER : MonoBehaviour
 {
-    public Text input;
+    public InputField input;
     string correct_pass = "a";
     // Start is called before the first frame update
     void Start()
